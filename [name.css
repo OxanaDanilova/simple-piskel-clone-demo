@@ -329,7 +329,7 @@ header h1 {
 
 .pen-size-wrapper {
   width: 220px;
-  height: 120px;
+  height: 80px;
   margin: 5px auto;
   background-color: #333333;
   color: #aaa;
@@ -343,19 +343,11 @@ header h1 {
 }
 
 .pen-sizes {
-  list-style: none;
-  margin-left: 25px;
-}
-
-.pen-sizes li {
-  margin-bottom: 3px;
   display: flex;
+  justify-content: space-around;
   align-items: center;
 }
 
-.pen-sizes li  input{
-  margin-left: 5px;
-}
 
 
 

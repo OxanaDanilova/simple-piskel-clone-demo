@@ -743,6 +743,10 @@ header h1 {
   margin-left: 35px;
 }
 
+.main-wrapper-temp {
+  display: none;
+}
+
 
 
 /*# sourceMappingURL=[name.css.map*/
